@@ -1,0 +1,11 @@
+.todo-item {
+    cursor: pointer;
+    width: max-content;
+}
+.todo-item:hover {
+    color: red;
+    text-decoration: line-through;
+  }
+.todo-item-toggle-line-through{
+    text-decoration: red line-through;
+}
